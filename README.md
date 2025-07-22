@@ -2,7 +2,8 @@
 AtliQ Hardware specializes in selling a wide range of hardware products, including PC, Printers, Mouse, and various peripheral devices.
 ## Problem Statement:
 To generate a comprehensive Sales and Finance Analytics Report aimed at providing valuable insights into sales performance, customer behaviour, market trends, profitability, and growth of AtliQ Hardware.
-## Project 1: Sales Analysis
+## Project 1: Sales Analysis  https://github.com/Deepa-v-bhat/Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
+
 #### Task Performed
 •	Made a detailed Customer Net Sales Performance Report
 •	Compared Market Performance and Sales Target
